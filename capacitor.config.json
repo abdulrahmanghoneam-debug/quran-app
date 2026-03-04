@@ -1,6 +1,8 @@
 {
-  "appId": "com.juzamin.recital",
-  "appName": "القرآن - الشيخ محمد شريف",
+  "appId": "com.abdulrahman.juzamma",
+  "appName": "جزء عم - عبدالرحمن غنيم",
   "webDir": "dist",
-  "bundledWebRuntime": false
+  "server": {
+    "androidScheme": "https"
+  }
 }

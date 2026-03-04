@@ -115,8 +115,9 @@ const Home = () => {
       </main>
 
       {/* Footer */}
-      <footer className="pb-[calc(env(safe-area-inset-bottom)+2rem)] text-center relative z-10 opacity-40">
-        <p className="text-xs text-white/50 font-amiri tracking-[0.5em] uppercase">بسم الله الرحمن الرحيم</p>
+      <footer className="pb-[calc(env(safe-area-inset-bottom)+2rem)] text-center relative z-10 space-y-2">
+        <p className="text-xs text-white/50 font-amiri tracking-[0.5em] uppercase opacity-40">بسم الله الرحمن الرحيم</p>
+        <p className="text-[10px] text-primary/60 font-amiri">تم التطوير بواسطة عبدالرحمن غنيم</p>
       </footer>
     </motion.div>
   );
