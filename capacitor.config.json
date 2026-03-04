@@ -1,0 +1,6 @@
+{
+  "appId": "com.juzamin.recital",
+  "appName": "القرآن - الشيخ محمد شريف",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
